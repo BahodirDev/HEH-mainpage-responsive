@@ -1,0 +1,13 @@
+/* responsive */
+@media (max-width:431px) {
+    .footer_row_list{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .p1_footer{
+        text-align: center;
+    }
+    .p2_footer{
+        text-align: center;
+    }
+}
